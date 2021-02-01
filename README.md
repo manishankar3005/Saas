@@ -8,7 +8,7 @@ Download ruby from https://rubyinstaller.org/downloads/
 After installation ruby, Now find command prompt start with ruby in window explorer.
 
 Now Enter the below command to install saas in your system.
-gem install sass --no-user-install
+gem install saas --no-user-install
 
 After installed successfully, Make sure by typing below command:
 saas -v
