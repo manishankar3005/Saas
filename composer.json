@@ -1,0 +1,8 @@
+{
+    "name": "manishankar3005/saas",
+    "description": "Learn how to compile SAAS file to CSS",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
