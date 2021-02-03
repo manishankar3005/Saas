@@ -3,6 +3,6 @@
     "description": "Learn how to compile SAAS file to CSS",
     "require": {
         "php": ">=5.0",
-        "minimum-stability":"dev"
+        "minimum-stability":"dev-master"
     }
 }
